@@ -1,0 +1,96 @@
+.header-one {
+    background-color:#ffff;
+}
+.logo-link {
+    float: left;
+}
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.nav-item-link {
+    text-decoration: none;
+}
+.nav-item {
+    display: inline;
+    float: left;
+}
+.header-one{
+    width: 1100px;
+}
+.seitnav {
+    float: left;
+}
+.section1 {
+    background-color:#252420;
+    height:500px;
+}
+.section-paragraf {
+    position: absolute;
+    width: 387px;
+    height: 328px;
+    left: 170px;
+    top: 177px;
+    color: aliceblue;
+}
+.button1 {
+    text-align:center;
+}
+.kitob-rasm {
+    float: right;
+    height: 510px;
+    width: 510px;  
+}
+.buyurtma-qilish {
+    height: 245px;
+    width: 340px;
+}
+.nega-aynan2 {
+    height: 245px;
+}
+.logo-rasm {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgba(255, 117, 0, 0.2);
+}
+.nega-aynan-logo {
+    width: 47px;
+    height: 47px;
+}
+.buyurtma-qilish {
+   float: left;
+}
+.kitoblar-aksiya {
+    width: 440px;
+    height: 291px;
+    float: left;
+    justify-content: space-between;
+}
+.section3 {
+    
+    background-color:#252420;
+    color:white;
+    
+}
+.section3-img {
+    display: inline;
+}
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 507px;
+    left: 0px;
+}
+.footer1 {
+
+    height:60px;
+}
+.footer-text2 {
+    display: inline;
+    float: left;
+}
